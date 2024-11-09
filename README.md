@@ -1,7 +1,3 @@
-Here’s a README file with emojis for your command-line application!
-
----
-
 # 🎮 Command-Line Application
 
 This project is a command-line application that allows users to execute various operations on their input. The application provides a menu with different options, allowing the user to choose an operation, input data for analysis, and view the result. The application continues running until the user decides to exit. 🚀
